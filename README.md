@@ -18,20 +18,20 @@ Need to Install APK tool on your Linux
 **Follow This**
 Linux
 Download the Repo 
-Move apktool and apktool.jar file to /usr/local/bin/ directory by using 
-Move both apktool.jar and apktool to /usr/local/bin. (root needed) 
+**Move apktool and apktool.jar** file to **/usr/local/bin/** directory by using 
+**Move both apktool.jar and apktool to /usr/local/bin. (root needed) 
 Make sure both files are executable. (chmod +x)
 ( sudo cp apktool apktool.jar /usr/local/bin/. )
-
+**
 Try running apktool via CLI.
 
 To use this tool, ensure you have Python installed on your machine. You can install the required dependencies using `pip`.
 
-Install Required Dependencies 
+**Install Required Dependencies 
 
 pip install -r requirements.txt
 
 after that run the tool 
 
-Apk_Url_Grep.py <apk file> output.txt
+Apk_Url_Grep.py <apk file> output.txt**
 
