@@ -33,5 +33,7 @@ pip install -r requirements.txt
 
 after that run the tool 
 
-Apk_Url_Grep.py <apk file> output.txt**
+Apk_Url_Grep.py android_apk_file_name.apk output.txt**
+
+then you will get the output file where you get URL and API's found on the Application. 
 
